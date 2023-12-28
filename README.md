@@ -1,4 +1,4 @@
-👋 # Jeff Barry
+👋 #Jeff Barry
 
 **`Narrative Engineer (Creator/Developer/Mentor)`**
 
