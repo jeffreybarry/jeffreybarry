@@ -53,7 +53,7 @@
 [![Inquiry-Based Responses from ChatGPT: Using AI to help you think through a topic](https://ytcards.demolab.com/?id=nIUZrXNb-cY&title=Inquiry-Based+Responses+from+ChatGPT%3A+Using+AI+to+help+you+think+through+a+topic&lang=en&timestamp=1692901902&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Inquiry-Based Responses from ChatGPT: Using AI to help you think through a topic")](https://www.youtube.com/watch?v=nIUZrXNb-cY)
 [![ChatGPT & Unreal Engine: How to really learn Blueprints in 5 steps](https://ytcards.demolab.com/?id=0M7tIHGYIkQ&title=ChatGPT+%26+Unreal+Engine%3A+How+to+really+learn+Blueprints+in+5+steps&lang=en&timestamp=1692718336&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ChatGPT & Unreal Engine: How to really learn Blueprints in 5 steps")](https://www.youtube.com/watch?v=0M7tIHGYIkQ)
 <!-- END YOUTUBE-CARDS -->
-
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/ailessons?sub_confirmation=1)
 <!--
 **jeffreybarry/jeffreybarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
