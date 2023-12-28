@@ -58,7 +58,7 @@
 
 ### 📺 Read my Substack newsletter: The Metaverse is Open
 
-[img src="metaverse-screenshot-750.png" alt="Metaverse"](https://metaverseisopen.substack.com/)
+[<img src="metaverse-screenshot-750.png" alt="Metaverse">](https://metaverseisopen.substack.com/)
 
 #
 
