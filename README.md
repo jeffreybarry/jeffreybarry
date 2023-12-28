@@ -57,7 +57,7 @@
 # 
 
 ### 📺 Read my Substack newsletter: The Metaverse is Open
-
+<img src="[https://github.com/jeffreybarry/jeffreybarry/blob/main/metaverse-screenshot-750.png](https://github.com/jeffreybarry/jeffreybarry/blob/main/metaverse-screenshot-750.png?raw=true)">
 
 <!--
 **jeffreybarry/jeffreybarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
