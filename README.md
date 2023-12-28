@@ -2,7 +2,8 @@
 
 **`Narrative Engineer (Creator/Developer/Mentor)`**
 
-🌱 crafting stories with a systematic approach
+🌱 crafting a systematic approach to interactive storytelling
+
 <!--
 **jeffreybarry/jeffreybarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
