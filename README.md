@@ -1,6 +1,6 @@
 👋 # Jeff Barry
 
-**`Storytelling Technologist (Educator/Developer/Creator)`**
+**`Storytelling Technologist (Creator/Developer/Mentor)`**
 
 <!--
 **jeffreybarry/jeffreybarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
