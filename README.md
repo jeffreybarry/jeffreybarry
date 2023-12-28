@@ -1,6 +1,7 @@
 👋 # Jeff Barry
 
 **`Narrative Engineer (Creator/Developer/Mentor)`**
+
 **`crafting stories with a systematic approach`**
 <!--
 **jeffreybarry/jeffreybarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
