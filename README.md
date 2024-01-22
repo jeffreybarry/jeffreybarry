@@ -1,6 +1,6 @@
 # 🔭 Jeff Barry
 
-**`Narrative Engineer (Creator/Developer/Mentor)`**
+**`Librarian, writer, full-stack developer`**
 
 🌱 crafting tools for interactive storytelling
 
