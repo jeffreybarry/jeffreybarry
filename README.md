@@ -1,6 +1,6 @@
 # 🔭 Jeff Barry
 
-**`Librarian, writer, full-stack developer`**
+**`data scientist, writer, full-stack developer`**
 
 🌱 crafting tools for interactive storytelling
 
