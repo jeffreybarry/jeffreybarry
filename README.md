@@ -1,6 +1,6 @@
 # 🔭 Jeff Barry
 
-**`educator, data scientist, writer, full-stack developer`**
+**`educator, indie game developer, writer, full-stack developer`**
 
 🌱 crafting tools for interactive storytelling
 
