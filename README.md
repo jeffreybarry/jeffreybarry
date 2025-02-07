@@ -6,7 +6,7 @@
 
 💬 I'm a Lecturer of Data Science at Washington and Lee University. 
 
-📚 🖥️ ✍️ At the core of my life's work—whether in my roles as a teacher, software engineer, writer, or reader—lies a deep commitment to comprehending the ways we craft and consume stories, both fictional and factual, within digital media. Viewing the evolving landscape of creativity, learning, and leisure through the prism of my child's future profoundly shapes my vision for contributing to the evolution of narrative in the twenty-first century.
+📚 🖥️ ✍️ At the core of my life's work—whether in my roles as an educator, software engineer, writer, or reader—is understanding how we tell and read stories, both fictional and factual, within digital media. The future of my child’s life is the lens through which I view the changing shape of creativity, learning, and leisure in the twenty-first century.
 
 ---
 
