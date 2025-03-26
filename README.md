@@ -64,6 +64,6 @@
 
 ### 🧪 Work-in-Progress: Generative AI Benchmarks
 
-[<img src="scene-perception-thumbnail-opt.png">](https://github.com/jeffreybarry/ScenePerception)
+<a href=">https://github.com/jeffreybarry/ScenePerception"><img src="scene-perception-thumbnail-opt.png" width="400" height="300"></a>
 
 #
