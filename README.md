@@ -2,7 +2,7 @@
 
 **`educator, indie game developer, writer, full-stack developer`**
 
-🌱 crafting AI tools for enhancing, not replacing, human thought
+🌱 crafting AI tools for enhancing, not replacing, human creativity
 
 💬 Former Lecturer of Data Science at Washington and Lee University. 
 
