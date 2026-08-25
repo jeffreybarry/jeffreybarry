@@ -51,10 +51,8 @@
 
 # 
 
-### 📺 Read my Substack newsletter: Endless Hybrids
-
-[<img src="metaverse-screenshot-750.png">](https://endlesshybrids.substack.com/)
-
+ 
+ 
 #
 
  
