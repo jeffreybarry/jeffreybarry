@@ -51,9 +51,9 @@
 
 # 
 
-### 📺 Read my Substack newsletter: The Metaverse is Open
+### 📺 Read my Substack newsletter: Endless Hybrids
 
-[<img src="metaverse-screenshot-750.png">](https://metaverseisopen.substack.com/)
+[<img src="metaverse-screenshot-750.png">](https://endlesshybrids.substack.com/)
 
 #
 
